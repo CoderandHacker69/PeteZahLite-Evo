@@ -14,7 +14,8 @@
     },
     {
       "label": "Tag",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/tag",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/tag",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/taggame.jpg",
       "categories": ["2 player"]
     },
@@ -26,37 +27,43 @@
     },
     {
       "label": "Ragdoll Archers",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/ragdoll-archers",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/ragdoll-archers",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/ragdoll.jpg",
       "categories": ["2 player", "skill"]
     },
     {
       "label": "Ragdoll Hit",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/ragdoll-hit",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/ragdoll-hit",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/ragdoll-hit.jpeg",
       "categories": ["2 player", "skill"]
     },
     {
       "label": "Super Star Car",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/superstarcar",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/superstarcar",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/superstarcar.jpeg",
       "categories": ["skill", "racing"]
     },
     {
       "label": "Smashy Roads",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/smashyroad",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/smashyroad",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/smashy.jpg",
       "categories": ["action"]
     },
     {
       "label": "Smashy Roads 2",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/smashy-roads-2",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/smashy-roads-2",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/smashyroad.webp",
       "categories": ["action"]
     },
     {
       "label": "Clash Royale",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/clash-royale",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/clash-royale",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/clash.jpeg",
       "categories": ["skill", "action"]
     },
@@ -80,31 +87,36 @@
     },
     {
       "label": "Sky Riders",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/sky-riders/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/sky-riders/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/skyriders.png",
       "categories": ["action", "racing"]
     },
     {
       "label": "Buckshot Roulette",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/buckshot-roullete/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/buckshot-roullete/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/buckshot-roulette/buckshot-roulette.icon.png",
       "categories": ["skill", "strategy"]
     },
     {
       "label": "Space Waves",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/spacewaves",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/spacewaves",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/spacewaves.jpg",
       "categories": ["skill"]
     },
     {
       "label": "Roblox",
       "url": "/pages/other/roblox/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/roblox/roblox.jpeg",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/roblox/roblox.jpeg",
+      "url": "index.html",
       "categories": ["action"]
     },
     {
       "label": "Fortnite",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/a/geforce",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/a/geforce",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/fakefortnight.jpg",
       "categories": ["shooting"]
     },
@@ -123,19 +135,22 @@
     },
     {
       "label": "Highway Racer",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/highway-racer",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/highway-racer",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/highway-racer.jpeg",
       "categories": ["racing"]
     },
     {
       "label": "Highway Racer 2",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/highway-race2",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/highway-race2",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/highway-racer2.jpeg",
       "categories": ["racing"]
     },
     {
       "label": "Stickman Hook",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/stickman-hook",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/stickman-hook",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/stickmanhook.jpg",
       "categories": ["skill"]
     },
@@ -147,19 +162,22 @@
     },
     {
       "label": "Buildnow.gg",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/buildnowgg",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/buildnowgg",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/buildnow.jpeg",
       "categories": ["shooting", "skill"]
     },
     {
       "label": "Table Tennis World Tour",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/table-tennis-world-tour/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/table-tennis-world-tour/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/tabletennisworldtour.png",
       "categories": ["sports"]
     },
     {
       "label": "Rip-Off Brawl Stars",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/brawlstars",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/brawlstars",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/brawlstars1.jpg",
       "categories": ["action"]
     },
@@ -171,128 +189,155 @@
     },
     {
       "label": "N-Gon",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/n-gon",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/n-gon",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/ngon.jpg",
       "categories": ["strategy"]
     },
     {
       "label": "Race Survival Car",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/racesurvival",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/racesurvival/logo.jpeg",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/racesurvival",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/racesurvival/logo.jpeg",
+      "url": "index.html",
       "categories": ["racing", "action"]
     },
     {
       "label": "Call of Duty",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/callofduty",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/callofduty",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/callme.jpg",
       "categories": ["shooting"]
     },
     {
       "label": "Territorial.io",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/territorial",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/territorial",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/territorialio.jpg",
       "categories": ["io"]
     },
     {
       "label": "Slither.io",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/slither",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/slither",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/slitherio.jpg",
       "categories": ["io"]
     },
     {
       "label": "Agar.io",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/agar",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/agar",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/agario.jpg",
       "categories": ["io"]
     },
     {
       "label": "Yohoho.io",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/yohoho/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/yohoho/IMG_5302.jpeg",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/yohoho/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/yohoho/IMG_5302.jpeg",     
+      "url": "index.html",
       "categories": ["io"]
     },
     {
       "label": "Hole.io",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/holeio/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/holeio/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/hole.jpg",
       "categories": ["io"]
     },
     {
       "label": "Skribbl.io",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/skribbl/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/skribbl/IMG_5303.jpeg",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/skribbl/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/skribbl/IMG_5303.jpeg",      
+      "url": "index.html",
       "categories": ["io"]
     },
     {
       "label": "Smash Karts.io",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/smashkarts/index.html",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/smashkarts/smashkarts.webp",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/smashkarts/index.html",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/smashkarts/smashkarts.w,bp",
+      "url": "index.html",
       "categories": ["io"]
     },
     {
       "label": "Arras.io",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/arras",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/arras",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/arras.jpg",
       "categories": ["io"]
     },
     {
       "label": "Hexanaut.io",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/hexa",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/hexa",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/hexa.jpg",
       "categories": ["io"]
     },
     {
       "label": "Deeeep.io",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/dieeeeeep",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/dieeeeeep",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/dieeeep.jpg",
       "categories": ["io"]
     },
     {
       "label": "Paper.io",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/paperio",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/paperio",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/paper.jpg",
       "categories": ["io"]
     },
     {
       "label": "Paper.io 2",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/paperio2",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/paperio2",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/paper2.jpg",
       "categories": ["io"]
     },
     {
       "label": "Stumble Guys",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/stumbleguys",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/stumbleguys",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/stumble.jpg",
       "categories": ["action"]
     },
     {
       "label": "Crushed Adventures",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/crushed-adventures",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/crushed-adventures",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/crushed-ad.png",
       "categories": ["skill"]
     },
     {
       "label": "Space Huggers",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/spacehuggers",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/spacehuggers",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/spacehuggers.jpg",
       "categories": ["shooting"]
     },
     {
       "label": "Funny Shooter",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/funnyshooter",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/funnyshooter",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/funnyshooter.jpg",
       "categories": ["shooting"]
     },
     {
       "label": "Slope 2",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/slope2/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/slope2/splash.png",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/slope2/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/slope2/splash.png",
+     "url": "index.html",
       "categories": ["action"]
     },
     {
       "label": "Slope",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/slope/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/slope/IMG_5256.jpeg",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/slope/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/slope/IMG_5256.jpeg",
+     "url": "index.html",
       "categories": ["skill"]
     },
     {
@@ -3820,578 +3865,724 @@
     },
     {
       "label": "Geometry Dash",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/geometrydash/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/geometrydash/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/geo.jpeg",
       "categories": ["skill"]
     },
     {
       "label": "Geometry Dash Full Version",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/geometrydash2/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/geometrydash2/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/geo.jpeg",
       "categories": ["skill"]
     },
     {
       "label": "Cookie Clicker",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/cookie-clicker/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/cookie-clicker/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/cookie.jpeg",
       "categories": ["skill"]
     },
     {
       "label": "Jelly Drift",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/jelly-drift/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/jelly-drift/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/jelly.jpeg",
       "categories": ["skill"]
     },
     {
       "label": "Moto X3M",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/motox3m/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/motox3m/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/moto.jpg",
       "categories": ["action"]
     },
     {
       "label": "Moto X3M 2",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/motox3m2/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/motox3m2/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/moto2.jpg",
       "categories": ["action"]
     },
     {
       "label": "Moto X3M 3",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/motox3m3/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/motox3m3/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/moto3.jpg",
       "categories": ["action"]
     },
     {
       "label": "Moto X3M 4: Winter",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/motox3m-winter/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/motox3m-winter/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/moto4.jpg",
       "categories": ["action"]
     },
     {
       "label": "Moto X3M 5: Pool",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/motox3m-pool/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/motox3m-pool/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/moto5.jpg",
       "categories": ["action"]
     },
     {
       "label": "Getaway Shootout",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/getawayshootout",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/getawayshootout",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/getaway.jpg",
       "categories": ["2 player"]
     },
     {
       "label": "Rooftop Snipers",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/rooftopsnipers",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/rooftopsnipers",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/rooftop.jpg",
       "categories": ["2 player"]
     },
     {
       "label": "Rooftop Snipers 2",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/rooftopsnipers2",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/rooftopsnipers2",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/rooftop2.jpg",
       "categories": ["2 player"]
     },
     {
       "label": "Flight Simulator",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/geofs",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/geofs",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/geofs.jpg",
       "categories": ["action"]
     },
     {
       "label": "Kart Wars",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/kartwars",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/kartwars",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/kart.jpg",
       "categories": ["io"]
     },
     {
       "label": "Tunnel Rush",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/tunnelrush",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/tunnelrush",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/tunnelrush.jpg",
       "categories": ["skill"]
     },
     {
       "label": "Downtown Mafia",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/gta",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/gta",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/gta.jpg",
       "categories": ["action", "shooting"]
     },
     {
       "label": "CSGO Clicker",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/csgoclicker",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/csgoclicker",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/csgo.jpg",
       "categories": ["skill"]
     },
     {
       "label": "Papery Planes",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/papery-planes",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/papery-planes",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/paperyplanes.jpg",
       "categories": ["skill"]
     },
     {
       "label": "SUPERHOT",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/superhot/game",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/superhot/game",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/superhot1.jpg",
       "categories": ["shooting"]
     },
     {
       "label": "World Guesser",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/worldg",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/worldg",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/worldg.jpg",
       "categories": ["strategy"]
     },
     {
       "label": "Super Mario 64",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/mario/wasd/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/mario/wasd/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/supermario.jpg",
       "categories": ["skill"]
     },
     {
       "label": "Tetris",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/tetris",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/tetris",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/tetris.jpg",
       "categories": ["strategy"]
     },
     {
       "label": "Wordle",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/wordle",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/wordle",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/wordle.jpg",
       "categories": ["strategy"]
     },
     {
       "label": "Tiny Fishing",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/tinyfishing",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/tinyfishing",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/tinyfishing.jpg",
       "categories": ["skill"]
     },
     {
       "label": "10 Minutes Till Dawn",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/10minutestilldawn",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/10minutestilldawn",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/10mins.jpg",
       "categories": ["strategy", "action"]
     },
     {
       "label": "Eggy Car",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/eggycar",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/eggycar",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/eggy.jpg",
       "categories": ["skill"]
     },
     {
       "label": "Hextris",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/hextris",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/hextris",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/hextris.png",
       "categories": ["strategy"]
     },
     {
       "label": "House of Hazards",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/houseofhazards",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/houseofhazards",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/houseofhazards.jpg",
       "categories": ["2 player"]
     },
     {
       "label": "Fallen London",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/fallenlondon",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/fallenlondon",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/fallenlondon.jpg",
       "categories": ["strategy"]
     },
     {
       "label": "Zombie Apocolypse",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/zombocalypse",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/zombocalypse",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/zombiea.jpg",
       "categories": ["skill"]
     },
     {
       "label": "Infinite Craft",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/infinitecraft",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/infinitecraft",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/infinitec.jpg",
       "categories": ["skill"]
     },
     {
       "label": "2048",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/2048/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/2048/meta/apple-touch-icon.png",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/2048/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/2048/meta/apple-touch-i,on.png",
+      "url": "index.html",
       "categories": ["strategy"]
     },
     {
       "label": "Snow Battle",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/snowbattle/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/snowbattle/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/snow.jpeg",
       "categories": ["skill"]
     },
     {
       "label": "Vex 6",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/vex6/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/vex6/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/vex6.jpg",
       "categories": ["skill"]
     },
     {
       "label": "Doge Miner",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/DogeMiner/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/DogeMiner/img/dogeminer_300x300.png",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/DogeMiner/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/DogeMiner/img/dogeminer,300x300.png",
+      "url": "index.html",
       "categories": ["skill"]
     },
     {
       "label": "Death Run 3D",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/death-run-3d",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/death-run-3d",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/dr3d.jpg",
       "categories": ["skill"]
     },
     {
       "label": "Drift Boss",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/drift-boss",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/drift-boss",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/driftb.jpg",
       "categories": ["skill"]
     },
     {
       "label": "Recoil",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/recoil",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/recoil",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/recoil.jpg",
       "categories": ["action", "shooting"]
     },
     {
       "label": "Bitlife",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/bite/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/bite/logo.png",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/bite/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/bite/logo.png",
+      ",rl": "index.html",
       "categories": ["skill"]
     },
     {
       "label": "Crusher Clicker",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/crusherclicker",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/crusherclicker",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/crusherclicker.jpg",
       "categories": ["strategy"]
     },
     {
       "label": "A.D.O.F.A.I",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/adofai/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/adofai/splash.png",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/adofai/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/adofai/splash.png",
+     "url": "index.html",
       "categories": ["action"]
     },
     {
       "label": "Basketball Stars",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/basketball-stars/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/basketball-stars/assets/images/basketball-stars.png",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/basketball-stars/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/basketball-stars/assets,images/basketball-stars.png",
+      "url": "index.html",
       "categories": ["sports"]
     },
     {
       "label": "Basketbros.io",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/basketbros-io/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/basketbros-io/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/basketbros.jpeg",
       "categories": ["sports"]
     },
     {
       "label": "Awesome Tanks 2",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/awesometanks2/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/awesometanks2/IMG_5282.png",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/awesometanks2/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/awesometanks2/IMG_5282.,ng",
+      "url": "index.html",
       "categories": ["action"]
     },
     {
       "label": "Basketball Random",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/basketrandom",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/basketrandom",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/basketballrandom.jpg",
       "categories": ["sports"]
     },
     {
       "label": "Boxing Random",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/boxing-random/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/boxing-random/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/boxingrandom.jpg",
       "categories": ["sports"]
     },
     {
       "label": "Soccer Random",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/soccerrandom/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/soccerrandom/unnamed.png",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/soccerrandom/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/soccerrandom/unnamed.pn,",
+      "url": "index.html",
       "categories": ["sports"]
     },
     {
       "label": "Bad Ice Cream",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/bad-ice-cream/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/bad-ice-cream/bad-ice-cream.png",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/bad-ice-cream/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/bad-ice-cream/bad-ice-c,eam.png",
+      "url": "index.html",
       "categories": ["action"]
     },
     {
       "label": "Bad Ice Cream 2",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/bad-ice-cream-2/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/bad-ice-cream-2/bad-ice-cream-2.png",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/bad-ice-cream-2/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/bad-ice-cream-2/bad-ice,cream-2.png",
+      "url": "index.html",
       "categories": ["action"]
     },
     {
       "label": "Bad Ice Cream 3",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/bad-ice-cream-3/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/bad-ice-cream-3/bad-ice-cream-3.png",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/bad-ice-cream-3/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/bad-ice-cream-3/bad-ice,cream-3.png",
+      "url": "index.html",
       "categories": ["action"]
     },
     {
       "label": "Stunt Paradise",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/stuntparadise/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/stuntparadise/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/stunt.jpg",
       "categories": ["skill"]
     },
     {
       "label": "Melon Playground",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/melonplayground/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/melonplayground/IMG_5304.jpeg",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/melonplayground/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/melonplayground/IMG_530,.jpeg",
+      "url": "index.html",
       "categories": ["action"]
     },
     {
       "label": "FC Mobile",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/fc/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/fc/IMG_5312.webp",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/fc/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/fc/IMG_5312.webp",
+      "url": "index.html",
       "categories": ["sports"]
     },
     {
       "label": "Angry Sharks",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/angry-sharks/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/angry-sharks/assets/favicon/icon-512x512.png",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/angry-sharks/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/angry-sharks/assets/fav,con/icon-512x512.png",
+      "url": "index.html",
       "categories": ["action"]
     },
     {
       "label": "Breaking the Bank",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/breakingthebank/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/breakingthebank/breakingthebank.png",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/breakingthebank/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/breakingthebank/breakin,thebank.png",
+      "url": "index.html",
       "categories": ["action"]
     },
     {
       "label": "Venge",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/venge/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/venge/IMG_5229.jpeg",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/venge/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/venge/IMG_5229.jpeg",
+      "url": "index.html",
       "categories": ["shooting"]
     },
     {
       "label": "Drive Mad",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/drive-mad/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/drive-mad/logo.jpg",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/drive-mad/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/drive-mad/logo.jpg",
+      "url": "index.html",
       "categories": ["skill"]
     },
     {
       "label": "Creative Kill Chamber",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/creativekillchamber/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/creativekillchamber/creativekillchamber.jpg",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/creativekillchamber/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/creativekillchamber/cre,tivekillchamber.jpg",
+      "url": "index.html",
       "categories": ["skill", "shooting"]
     },
     {
       "label": "Gravity Soccer",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/gravity-soccer/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/gravity-soccer/splash.png",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/gravity-soccer/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/gravity-soccer/splash.p,g",
+      "url": "index.html",
       "categories": ["sports"]
     },
     {
       "label": "LOL Beans",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/lolbeans/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/lolbeans/IMG_5301.jpeg",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/lolbeans/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/lolbeans/IMG_5301.jpeg",
+      "url": "index.html",
       "categories": ["action"]
     },
     {
       "label": "Krunker",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/krunker/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/krunker/IMG_5299.png",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/krunker/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/krunker/IMG_5299.png",
+      "url": "index.html",
       "categories": ["io"]
     },
     {
       "label": "Shell Shockers",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/shellshockersio",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/shellshockers/IMG_5300.png",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/shellshockersio",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/shellshockers/IMG_5300.,ng",
+      "url": "index.html",
       "categories": ["io"]
     },
     {
       "label": "Flappy Bird",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/flappy-bird/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/flappy-bird/assets/thumb.png",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/flappy-bird/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/flappy-bird/assets/thum,.png",
+      "url": "index.html",
       "categories": ["skill"]
     },
     {
       "label": "Ducklife",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/ducklife/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/ducklife/IMG_5307.png",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/ducklife/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/ducklife/IMG_5307.png",      
+      "url": "index.html",
       "categories": ["action"]
     },
     {
       "label": "Ducklife 2",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/ducklife2/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/ducklife2/IMG_5308.png",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/ducklife2/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/ducklife2/IMG_5308.png",
+      "url": "index.html",
       "categories": ["action"]
     },
     {
       "label": "Ducklife 3",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/ducklife3/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/ducklife3/IMG_5309.png",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/ducklife3/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/ducklife3/IMG_5309.png",
+      "url": "index.html",
       "categories": ["action"]
     },
     {
       "label": "Ducklife 4",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/ducklife4/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/ducklife4/IMG_5310.png",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/ducklife4/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/ducklife4/IMG_5310.png",
+      "url": "index.html",
       "categories": ["action"]
     },
     {
       "label": "Red Ball 4",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/redball/1.html",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/redball/IMG_5315.jpeg",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/redball/1.html",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/redball/IMG_5315.jpeg",      
+      "url": "index.html",
       "categories": ["skill"]
     },
     {
       "label": "Red Ball 4 Vol 2",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/redball/2.html",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/redball/IMG_5316.webp",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/redball/2.html",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/redball/IMG_5316.webp",      "url": "index.html",
       "categories": ["skill"]
     },
     {
       "label": "Red Ball 4 Vol 3",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/redball/3.html",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/redball/IMG_5317.webp",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/redball/3.html",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/redball/IMG_5317.webp",      "url": "index.html",
       "categories": ["skill"]
     },
     {
       "label": "Diggy",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/diggy/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/diggy/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/diggy.jprg..jpeg",
       "categories": ["skill"]
     },
     {
       "label": "Gun Mayhem",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/guymayhem/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/guymayhem/icon.png",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/guymayhem/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/guymayhem/icon.png",
+     "url": "index.html",
       "categories": ["shooting"]
     },
     {
       "label": "Gun Mayhem 2",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/gunmayhem2/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/gunmayhem2/gh2.webp",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/gunmayhem2/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/gunmayhem2/gh2.webp",
+     "url": "index.html",
       "categories": ["shooting"]
     },
     {
       "label": "Gun Mayhem Redux",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/gunmayhemredux/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/gunmayhemredux/gunmayhemredux.jpeg",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/gunmayhemredux/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/gunmayhemredux/gunmayhe,redux.jpeg",
+      "url": "index.html",
       "categories": ["shooting"]
     },
     {
       "label": "Run 3",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/run3/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/run3/run3.png",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/run3/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/run3/run3.png",
+      ",rl": "index.html",
       "categories": ["skill"]
     },
     {
       "label": "Tomb of the Mask",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/totm/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/totm/splash.webp",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/totm/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/totm/splash.webp",
+     "url": "index.html",
       "categories": ["skill"]
     },
     {
       "label": "Madness Accelerant",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/ma/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/ma/IMG_5320.jpeg",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/ma/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/ma/IMG_5320.jpeg",
+     "url": "index.html",
       "categories": ["skill"]
     },
     {
       "label": "A Small World Cup",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/asmallworldcup/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/asmallworldcup/icon-256.png",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/asmallworldcup/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/asmallworldcup/icon-256,png",
+      "url": "index.html",
       "categories": ["sports"]
     },
     {
       "label": "Block Blast",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/blockblast/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/blockblast/s.png",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/blockblast/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/blockblast/s.png",
+     "url": "index.html",
       "categories": ["strategy"]
     },
     {
       "label": "Snow Rider 3D",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/snowrider3d/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/snowrider3d/snow-rider-3d.png",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/snowrider3d/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/snowrider3d/snow-rider-,d.png",
+      "url": "index.html",
       "categories": ["skill"]
     },
     {
       "label": "Google Snake",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/google-snake/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/google-snake/img/snake.png",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/google-snake/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/google-snake/img/snake.,ng",
+      "url": "index.html",
       "categories": ["skill"]
     },
     {
       "label": "Age of War",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/age-of-war/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/age-of-war/icon.jpg",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/age-of-war/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/age-of-war/icon.jpg",
+     "url": "index.html",
       "categories": ["action"]
     },
     {
       "label": "Angry Birds",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/angrybirds/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/angrybirds/logo.webp",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/angrybirds/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/angrybirds/logo.webp",
+      "url": "index.html",
       "categories": ["skill"]
     },
     {
       "label": "Astray",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/astray/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/astray/astray.jpeg",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/astray/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/astray/astray.jpeg",
+     "url": "index.html",
       "categories": ["action"]
     },
     {
       "label": "Bounce Back",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/bounceback/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/bounceback/screenshot.png",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/bounceback/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/bounceback/screenshot.p,g",
+      "url": "index.html",
       "categories": ["skill"]
     },
     {
       "label": "Blocky Snakes",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/blocky-snakes/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/blocky-snakes/icon.png",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/blocky-snakes/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/blocky-snakes/icon.png",
+      "url": "index.html",
       "categories": ["skill"]
     },
     {
       "label": "Little Alchemy",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/littlealchemy/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/littlealchemy/image_2024-08-30_152806221.png",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/littlealchemy/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/littlealchemy/image_202,-08-30_152806221.png",
+      "url": "index.html",
       "categories": ["strategy"]
     },
     {
       "label": "Little Alchemy 2",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/littlealchemy2/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/littlealchemy2/a2.png",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/littlealchemy2/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/littlealchemy2/a2.png",      "url": "index.html",
       "categories": ["strategy"]
     },
     {
       "label": "Stick Merge",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/stick-merge/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/stick-merge/splash.png",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/stick-merge/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/stick-merge/splash.png",
+      "url": "index.html",
       "categories": ["skill"]
     },
     {
       "label": "Retro Bowl",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/retro-bowl/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/retro-bowl/img/icon.jpg",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/retro-bowl/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/retro-bowl/img/icon.jpg",
+      "url": "index.html",
       "categories": ["sports"]
     },
     {
       "label": "Core Ball",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/core-ball/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/core-ball/coreball.png",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/core-ball/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/core-ball/coreball.png",
+      "url": "index.html",
       "categories": ["strategy"]
     },
     {
       "label": "Deepest Sword",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/deepest-sword/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/deepest-sword/deepestsword.png",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/deepest-sword/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/deepest-sword/deepestsw,rd.png",
+      "url": "index.html",
       "categories": ["action"]
     },
     {
       "label": "Zombs Royale",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/zombsroyale/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/zombsroyale/zombsroyale.webp",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/zombsroyale/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/zombsroyale/zombsroyale,webp",
+      "url": "index.html",
       "categories": ["skill"]
     },
     {
       "label": "Pokemon Ruby",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/pokemongames/pokemonruby/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/pokemongames/pokemonruby/pokemon ruby.jpeg",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/pokemongames/pokemonruby/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/pokemongames/pokemonrub,/pokemon ruby.jpeg",
+      "url": "index.html",
       "categories": ["action"]
     },
     {
       "label": "Spider-Man Venoms Vengence",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/spidermanvenomsvengence/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/spidermanvenomsvengence/splash.png",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/spidermanvenomsvengence/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/spidermanvenomsvengence,splash.png",
+      "url": "index.html",
       "categories": ["action"]
     },
     {
       "label": "Slow Roads",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/slow-roads/",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/slowroads/splash.jpeg",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/slow-roads/",
+      "url": "index.html",
+      "Basedir": "jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/slowroads/splash.jpeg",      "url": "index.html",
       "categories": ["action"]
     },
     {
@@ -4732,19 +4923,22 @@
     },
     {
       "label": "Papa's Wingeria",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/papas-wingeria/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/papas-wingeria/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main2/papaswingeria.webp",
       "categories": ["skill"]
     },
     {
       "label": "Papa's Bakeria",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/papas-bakeria/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/papas-bakeria/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/papasbakeria.jpeg",
       "categories": ["skill"]
     },
     {
       "label": "Papa's Pizeria",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/papas-pizeria/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/papas-pizeria/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/papaspizeria.jpeg",
       "categories": ["skill"]
     },
@@ -4960,7 +5154,8 @@
     },
     {
       "label": "Fortnite (Geforce NOW)",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/a/geforce",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/a/geforce",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main2/fortnite.webp",
       "categories": ["shooting"]
     },
@@ -5104,889 +5299,1037 @@
     },
     {
       "label": "Crazy Cattle 3d",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/crazy-cattle-3d/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/crazy-cattle-3d/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/crazycattle3d.png",
       "categories": ["action"]
     },
     {
       "label": "Doors Online",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/doors-online/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/doors-online/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/doorsonline.png",
       "categories": ["action"]
     },
     {
       "label": "Yohoho.io",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/yohoho-io/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/yohoho-io/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/yohohoio.png",
       "categories": ["action", "io"]
     },
     {
       "label": "Poly Track",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/poly-track/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/poly-track/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/polytrack.png",
       "categories": ["action", "racing"]
     },
     {
       "label": "Slow Roads",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/slow-roads/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/slow-roads/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/slowroads.png",
       "categories": ["action", "racing"]
     },
     {
       "label": "Under the Red Sky",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/under-the-red-sky/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/under-the-red-sky/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/undertheofsky.png",
       "categories": ["action", "sports"]
     },
     {
       "label": "Animal Arena",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/animal-arena/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/animal-arena/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/animalarena.png",
       "categories": ["2 player"]
     },
     {
       "label": "Poor Bunny",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/poor-bunny/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/poor-bunny/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/poorbunny.png",
       "categories": ["2 player", "action", "sports"]
     },
     {
       "label": "Ducklings.io",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/ducklings-io/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/ducklings-io/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/ducklingsio.png",
       "categories": ["io"]
     },
     {
       "label": "Blumgi Paintball",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/blumgi-paintball/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/blumgi-paintball/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/blumgipaintball.png",
       "categories": ["2 player", "sports"]
     },
     {
       "label": "Blumgi Racers",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/blumgi-racers/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/blumgi-racers/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/blumgiracers.png",
       "categories": ["racing"]
     },
     {
       "label": "Blumgi Soccer",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/blumgi-soccer/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/blumgi-soccer/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/blumgisoccer.png",
       "categories": ["action", "sports"]
     },
     {
       "label": "Bowmasters",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/bowmasters/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g/bowmasters/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main/bowmasters.jpeg",
       "categories": ["skill"]
     },
     {
       "label": "Blumgi Dragon",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/blumgi-dragon/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/blumgi-dragon/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/blumgidragon.png",
       "categories": ["2 player", "action"]
     },
     {
       "label": "Blumgi Bloom",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/blumgi-bloom/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/blumgi-bloom/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/blumgibloom.png",
       "categories": []
     },
     {
       "label": "Blumgi Ball",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/blumgi-ball/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/blumgi-ball/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/blumgiball.png",
       "categories": ["sports"]
     },
     {
       "label": "Blumgi Castle",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/blumgi-castle/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/blumgi-castle/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/blumgicastle.png",
       "categories": ["2 player", "action"]
     },
     {
       "label": "Blumgi Rocket",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/blumgi-rocket/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/blumgi-rocket/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/blumgirocket.png",
       "categories": ["racing"]
     },
     {
       "label": "Blumgi Slime",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/blumgi-slime/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/blumgi-slime/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/blumgislime.png",
       "categories": ["2 player"]
     },
     {
       "label": "Swingo",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/swingo/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/swingo/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/swingo.png",
       "categories": []
     },
     {
       "label": "Zombie Rush",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/zombie-rush/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/zombie-rush/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/zombierush.png",
       "categories": ["2 player", "action", "shooting"]
     },
     {
       "label": "Animals Volleyball",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/animals-volleyball/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/animals-volleyball/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/animalsvolleyball.png",
       "categories": ["2 player", "action", "sports"]
     },
     {
       "label": "Jump Only",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/jump-only/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/jump-only/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/jumponly.png",
       "categories": []
     },
     {
       "label": "Chicken Merge 2",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/chicken-merge-2/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/chicken-merge-2/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/chickenmerge2.png",
       "categories": []
     },
     {
       "label": "Chicken Merge",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/chicken-merge/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/chicken-merge/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/chickenmerge.png",
       "categories": []
     },
     {
       "label": "GoBattle",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/gobattle/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/gobattle/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/gobattle.png",
       "categories": ["2 player"]
     },
     {
       "label": "Dadish 3D",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/dadish-3d/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/dadish-3d/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/dadish3d.png",
       "categories": ["action"]
     },
     {
       "label": "Dadish",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/dadish/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/dadish/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/dadish.png",
       "categories": ["action"]
     },
     {
       "label": "Dadish 2",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/dadish-2/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/dadish-2/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/dadish2.png",
       "categories": ["action"]
     },
     {
       "label": "Dadish 3",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/dadish-3/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/dadish-3/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/dadish3.png",
       "categories": ["action"]
     },
     {
       "label": "Super Fowlst",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/super-fowlst/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/super-fowlst/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/superfowlst.png",
       "categories": ["action"]
     },
     {
       "label": "Super Fowlst 2",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/super-fowlst-2/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/super-fowlst-2/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/superfowlst2.png",
       "categories": ["action"]
     },
     {
       "label": "Shadow Trick",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/shadow-trick/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/shadow-trick/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/shadowtrick.png",
       "categories": []
     },
     {
       "label": "Zooplop",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/zooplop/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/zooplop/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/zooplop.png",
       "categories": []
     },
     {
       "label": "Physibox",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/physibox/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/physibox/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/physibox.png",
       "categories": []
     },
     {
       "label": "Geometry Dash",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/geometry-dash/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/geometry-dash/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/geometrydash.png",
       "categories": ["action"]
     },
     {
       "label": "Water Polo Ragdoll",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/water-polo-ragdoll/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/water-polo-ragdoll/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/waterpoloragdoll.png",
       "categories": ["2 player", "action", "sports"]
     },
     {
       "label": "Space Wars Battleground",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/space-wars-battleground/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/space-wars-battleground/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/spacewarsbattleground.png",
       "categories": ["action", "shooting"]
     },
     {
       "label": "Level Devil",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/level-devil/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/level-devil/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/leveldevil.png",
       "categories": ["action"]
     },
     {
       "label": "ArmedForces.io",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/armed-forces-io/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/armed-forces-io/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/armedforcesio.png",
       "categories": ["action", "shooting", "io"]
     },
     {
       "label": "KS 2 Teams",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/ks-2-teams/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/ks-2-teams/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/ks2teams.png",
       "categories": ["action", "shooting"]
     },
     {
       "label": "Subway Surfers",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/subway-surfers/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/subway-surfers/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/subwaysurfers.png",
       "categories": ["action"]
     },
     {
       "label": "Super Tunnel Rush",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/super-tunnel-rush/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/super-tunnel-rush/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/supertunnelrush.png",
       "categories": ["racing", "sports"]
     },
     {
       "label": "Unicycle Legend",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/unicycle-legend/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/unicycle-legend/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/unicyclelegend.png",
       "categories": ["sports"]
     },
     {
       "label": "Unicycle Hero",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/unicycle-hero/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/unicycle-hero/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/unicyclehero.png",
       "categories": ["sports"]
     },
     {
       "label": "Goober World",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/goober-world/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/goober-world/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/gooberworld.png",
       "categories": ["action"]
     },
     {
       "label": "Bobble",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/bobble/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/bobble/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/bobble.png",
       "categories": []
     },
     {
       "label": "Merge the Numbers",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/merge-the-numbers/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/merge-the-numbers/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/mergethenumbers.png",
       "categories": []
     },
     {
       "label": "Merge Tycoon",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/merge-tycoon/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/merge-tycoon/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/mergetycoon.png",
       "categories": []
     },
     {
       "label": "Tower Defense Mingling",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/tower-defense-mingling/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/tower-defense-mingling/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/towerdefensemingling.png",
       "categories": ["action"]
     },
     {
       "label": "Watermelon Game",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/watermelon-game/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/watermelon-game/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/watermelongame.png",
       "categories": []
     },
     {
       "label": "Choppy Orc",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/choppy-orc/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/choppy-orc/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/choppyorc.png",
       "categories": ["action"]
     },
     {
       "label": "Battle Wheels",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/battle-wheels/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/battle-wheels/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/battlewheels.png",
       "categories": ["2 player", "racing"]
     },
     {
       "label": "Race Survival Arena King",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/race-survival-arena-king/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/race-survival-arena-king/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/racesurvivalarenaking.png",
       "categories": ["action", "racing"]
     },
     {
       "label": "Push Your Luck",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/push-your-luck/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/push-your-luck/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/pushyourluck.png",
       "categories": []
     },
     {
       "label": "Gobble",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/gobble/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/gobble/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/gobble.png",
       "categories": []
     },
     {
       "label": "Monster Tracks",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/monster-tracks/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/monster-tracks/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/monstertracks.png",
       "categories": ["racing"]
     },
     {
       "label": "Recoil",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/recoil/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/recoil/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/recoil.png",
       "categories": ["action"]
     },
     {
       "label": "Speed King",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/speed-king/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/speed-king/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/speedking.png",
       "categories": []
     },
     {
       "label": "Bank Robbery 3",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/bank-robbery-3/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/bank-robbery-3/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/bankrobbery3.png",
       "categories": ["action", "shooting"]
     },
     {
       "label": "Bank Robbery 2",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/bank-robbery-2/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/bank-robbery-2/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/bankrobbery2.png",
       "categories": ["action", "shooting"]
     },
     {
       "label": "Bank Robbery",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/bank-robbery/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/bank-robbery/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/bankrobbery.png",
       "categories": ["action", "shooting"]
     },
     {
       "label": "Gladihoppers",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/gladihoppers/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/gladihoppers/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/gladihoppers.png",
       "categories": ["action"]
     },
     {
       "label": "Monkey Mart",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/monkey-mart/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/monkey-mart/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/monkeymart.png",
       "categories": []
     },
     {
       "label": "Not Not",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/not-not/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/not-not/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/notnot.png",
       "categories": []
     },
     {
       "label": "Vex X3M",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/vex-x3m/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/vex-x3m/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/vexx3m.png",
       "categories": ["action", "racing"]
     },
     {
       "label": "Vex 8",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/vex-8/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/vex-8/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/vex8.png",
       "categories": ["action"]
     },
     {
       "label": "Vex 7",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/vex-7/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/vex-7/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/vex7.png",
       "categories": ["action"]
     },
     {
       "label": "Vex 6",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/vex-6/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/vex-6/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/vex6.png",
       "categories": ["action"]
     },
     {
       "label": "Vex 5",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/vex-5/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/vex-5/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/vex5.png",
       "categories": ["action"]
     },
     {
       "label": "Vex 4",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/vex-4/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/vex-4/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/vex4.png",
       "categories": ["action"]
     },
     {
       "label": "Vex 3",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/vex-3/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/vex-3/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/vex3.png",
       "categories": ["action"]
     },
     {
       "label": "Rocket Soccer Derby",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/rocket-soccer-derby/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/rocket-soccer-derby/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/rocketsoccerderby.png",
       "categories": ["racing", "sports"]
     },
     {
       "label": "Crossy Road",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/crossy-road/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/crossy-road/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/crossyroad.png",
       "categories": []
     },
     {
       "label": "OvO",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/ovo/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/ovo/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/ovo.png",
       "categories": ["action", "sports"]
     },
     {
       "label": "OvO Dimensions",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/ovo-dimensions/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/ovo-dimensions/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/ovodimensions.png",
       "categories": ["action", "sports"]
     },
     {
       "label": "Economical",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/economical/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/economical/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/economical.png",
       "categories": []
     },
     {
       "label": "Economical 2",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/economical-2/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/economical-2/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/economical2.png",
       "categories": []
     },
     {
       "label": "Day of Meat: Castle",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/day-of-meat-castle/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/day-of-meat-castle/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/dayofmeatcastle.png",
       "categories": []
     },
     {
       "label": "Day of Meat: Radiation",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/day-of-meat-radiation/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/day-of-meat-radiation/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/dayofmeatradiation.png",
       "categories": []
     },
     {
       "label": "Retro Highway",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/retro-highway/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/retro-highway/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/retrohighway.png",
       "categories": ["action", "racing"]
     },
     {
       "label": "Super Liquid Soccer",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/super-liquid-soccer/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/super-liquid-soccer/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/superliquidsoccer.png",
       "categories": ["sports"]
     },
     {
       "label": "Yokai Dungeon",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/yokai-dungeon/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/yokai-dungeon/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/yokaidungeon.png",
       "categories": []
     },
     {
       "label": "Bullet Bros",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/bullet-bros/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/bullet-bros/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/bulletbros.png",
       "categories": ["action", "shooting"]
     },
     {
       "label": "Flip Bros",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/flip-bros/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/flip-bros/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/flipbros.png",
       "categories": ["action"]
     },
     {
       "label": "Space Major Miner",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/space-major-miner/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/space-major-miner/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/spacemajorminer.png",
       "categories": ["action"]
     },
     {
       "label": "Retro Bowl",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/retro-bowl/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/retro-bowl/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/retrobowl.png",
       "categories": ["sports"]
     },
     {
       "label": "Poor Eddie",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/poor-eddie/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/poor-eddie/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/pooreddie.png",
       "categories": ["action"]
     },
     {
       "label": "Drift Boss",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/drift-boss/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/drift-boss/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/driftboss.png",
       "categories": ["action", "racing"]
     },
     {
       "label": "Sausage Flip",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/sausage-flip/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/sausage-flip/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/sausageflip.png",
       "categories": []
     },
     {
       "label": "Stickman Bike",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/stickman-bike/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/stickman-bike/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/stickmanbike.png",
       "categories": ["action", "racing"]
     },
     {
       "label": "Stickman Hook",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/stickman-hook/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/stickman-hook/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/stickmanhook.png",
       "categories": ["action"]
     },
     {
       "label": "Stickman Hook Halloween",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/stickman-hook-halloween/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/stickman-hook-halloween/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/stickmanhookhalloween.png",
       "categories": ["action"]
     },
     {
       "label": "Ball Dodge",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/ball-dodge/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/ball-dodge/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/balldodge.png",
       "categories": ["action"]
     },
     {
       "label": "Skiddy Taxi",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/skiddy-taxi/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/skiddy-taxi/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/skiddytaxi.png",
       "categories": ["racing"]
     },
     {
       "label": "Snow Rider 3D",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/snow-rider-3d/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/snow-rider-3d/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/snowrider3d.png",
       "categories": ["action", "racing"]
     },
     {
       "label": "Gold Digger FRVR",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/gold-digger-frvr/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/gold-digger-frvr/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/golddiggerfrvr.png",
       "categories": ["action"]
     },
     {
       "label": "Cow Bay",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/cow-bay/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/cow-bay/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/cowbay.png",
       "categories": []
     },
     {
       "label": "CS:GO Clicker",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/csgo-clicker/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/csgo-clicker/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/csgoclicker.png",
       "categories": []
     },
     {
       "label": "Soccer Skills World Cup",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/soccer-skills-world-cup/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/soccer-skills-world-cup/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/soccerskillsworldcup.png",
       "categories": ["action", "sports"]
     },
     {
       "label": "Soccer Skills Euro Cup",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/soccer-skills-euro-cup/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/soccer-skills-euro-cup/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/soccerskillseurocup.png",
       "categories": ["action", "sports"]
     },
     {
       "label": "Soccer Skills Champions League",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/soccer-skills-champions-league/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/soccer-skills-champions-league/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/soccerskillschampionsleague.png",
       "categories": ["action", "sports"]
     },
     {
       "label": "Space Thing",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/space-thing/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/space-thing/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/spacething.png",
       "categories": ["action"]
     },
     {
       "label": "Tiny Fishing",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/tiny-fishing/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/tiny-fishing/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/tinyfishing.png",
       "categories": ["sports"]
     },
     {
       "label": "Turbo Moto Racer",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/turbo-moto-racer/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/turbo-moto-racer/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/turbomotoracer.png",
       "categories": ["action", "racing"]
     },
     {
       "label": "Candy Crush",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/candy-crush/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/candy-crush/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/candycrush.png",
       "categories": []
     },
     {
       "label": "Four Colors",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/four-colors/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/four-colors/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/fourcolors.png",
       "categories": []
     },
     {
       "label": "Master Chess",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/master-chess/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/master-chess/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/masterchess.png",
       "categories": []
     },
     {
       "label": "Master Checkers",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/master-checkers/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/master-checkers/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/mastercheckers.png",
       "categories": []
     },
     {
       "label": "Cookie Clicker",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/cookie-clicker/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/cookie-clicker/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/cookieclicker.png",
       "categories": []
     },
     {
       "label": "Crazy Bikes",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/crazy-bikes/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/crazy-bikes/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/crazybikes.png",
       "categories": ["racing"]
     },
     {
       "label": "Crazy Cars",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/crazy-cars/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/crazy-cars/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/crazycars.png",
       "categories": ["racing"]
     },
     {
       "label": "Tanuki Sunset",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/tanuki-sunset/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/tanuki-sunset/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/tanukisunset.png",
       "categories": ["action", "racing"]
     },
     {
       "label": "Cluster Rush",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/cluster-rush/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/cluster-rush/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/clusterrush.png",
       "categories": ["action", "racing"]
     },
     {
       "label": "Core Ball",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/core-ball/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/core-ball/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/coreball.png",
       "categories": ["action"]
     },
     {
       "label": "Stack",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/stack/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/stack/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/stack.png",
       "categories": ["action"]
     },
     {
       "label": "Soccer Random",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/soccer-random/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/soccer-random/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/soccerrandom.png",
       "categories": ["2 player", "sports"]
     },
     {
       "label": "Basket Random",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/basket-random/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/basket-random/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/basketrandom.png",
       "categories": ["2 player", "sports"]
     },
     {
       "label": "Volley Random",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/volley-random/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/volley-random/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/volleyrandom.png",
       "categories": ["2 player", "sports"]
     },
     {
       "label": "JustFall.LOL",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/justfalllol/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/justfalllol/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/justfalllol.png",
       "categories": ["action"]
     },
     {
       "label": "Bitlife",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/bitlife/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/bitlife/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/bitlife.png",
       "categories": []
     },
     {
       "label": "Idle Mining Empire",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/idle-mining-empire/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/idle-mining-empire/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/idleminingempire.png",
       "categories": []
     },
     {
       "label": "Idle Startup Tycoon",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/idle-startup-tycoon/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/idle-startup-tycoon/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/idlestartuptycoon.png",
       "categories": []
     },
     {
       "label": "Idle Farming Business",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/idle-farming-business/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/idle-farming-business/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/idlefarmingbusiness.png",
       "categories": []
     },
     {
       "label": "Idle Gang",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/idle-gang/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/idle-gang/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/idlegang.png",
       "categories": []
     },
     {
       "label": "Idle Light City",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/idle-light-city/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/idle-light-city/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/idlelightcity.png",
       "categories": []
     },
     {
       "label": "Iron Snout",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/iron-snout/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/iron-snout/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/ironsnout.png",
       "categories": ["action"]
     },
     {
       "label": "Bacon May Die",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/bacon-may-die/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/bacon-may-die/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/baconmaydie.png",
       "categories": ["action"]
     },
     {
       "label": "Idle Breakout",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/idle-breakout/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/idle-breakout/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/idlebreakout.png",
       "categories": []
     },
     {
       "label": "Dune",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/dune/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/dune/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/dune.png",
       "categories": ["action"]
     },
     {
       "label": "Rooftop Snipers",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/rooftop-snipers/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/rooftop-snipers/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/rooftopsnipers.png",
       "categories": ["2 player", "shooting"]
     },
     {
       "label": "Rooftop Snipers 2",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/rooftop-snipers-2/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/rooftop-snipers-2/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/rooftopsnipers2.png",
       "categories": ["2 player", "shooting"]
     },
     {
       "label": "Tightrope Theatre",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/tightrope-theatre/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/tightrope-theatre/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/tightropetheatre.png",
       "categories": []
     },
     {
       "label": "Time Shooter 2",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/time-shooter-2/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/time-shooter-2/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/timeshooter2.png",
       "categories": ["action", "shooting"]
     },
     {
       "label": "Time Shooter 3",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/time-shooter-3/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/time-shooter-3/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/timeshooter3.png",
       "categories": ["action", "shooting"]
     },
     {
       "label": "Funny Shooter 2",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/funny-shooter-2/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/funny-shooter-2/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/funnyshooter2.png",
       "categories": ["action", "shooting"]
     },
     {
       "label": "Double Panda",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/double-panda/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/double-panda/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/doublepanda.png",
       "categories": ["2 player", "action"]
     },
     {
       "label": "Jacksmith",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/jacksmith/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/jacksmith/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/jacksmith.png",
       "categories": ["action"]
     },
     {
       "label": "Happy Wheels",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/happy-wheels/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/happy-wheels/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/happywheels.png",
       "categories": ["action"]
     },
     {
       "label": "One Chance",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/one-chance/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/one-chance/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/onechance.png",
       "categories": []
     },
     {
       "label": "Fleeing the Complex",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/fleeing-the-complex/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/fleeing-the-complex/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/fleeingthecomplex.png",
       "categories": []
     },
     {
       "label": "Infiltrating the Airship",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/infiltrating-the-airship/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/infiltrating-the-airship/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/infiltratingtheairship.png",
       "categories": []
     },
     {
       "label": "Stealing the Diamond",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/stealing-the-diamond/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/stealing-the-diamond/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/stealingthediamond.png",
       "categories": []
     },
     {
       "label": "Escaping the Prison",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/escaping-the-prison/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/escaping-the-prison/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/escapingtheprison.png",
       "categories": []
     },
     {
       "label": "Breaking the Bank",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/breaking-the-bank/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/breaking-the-bank/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/breakingthebank.png",
       "categories": []
     },
     {
       "label": "5b",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/5b/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/5b/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/5b.png",
       "categories": []
     },
     {
       "label": "Run 3",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/run-3/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/run-3/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/run3.png",
       "categories": []
     },
     {
       "label": "The Impossible Quiz 2",
-      "url": "/iframe.html?url=https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/the-impossible-quiz-2/",
+      "Basedir": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/ag/g2/the-impossible-quiz-2/",
+      "url": "index.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/PeteZah-Games/PeteZahGames@main/public/storage/images/main3/theimpossiblequiz2.png",
       "categories": []
     }
